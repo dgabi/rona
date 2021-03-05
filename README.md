@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # rona analytics
 =======
 # rona
@@ -12,4 +11,3 @@
 After opening go to *File|Trust* the notebook to be able to run the code. 
 
 To make changes you have to *File|Make a copy*. I will fix the readonly issue later.
->>>>>>> 15a511a (added dockerfile to setup quickly a viewer for the notebook)
