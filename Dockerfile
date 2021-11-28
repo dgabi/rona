@@ -26,4 +26,4 @@ COPY datasets/*.csv $NOTEBOOK_PATH/
 USER root
 RUN chown -R $NOTEBOOK_USER $NOTEBOOK_PATH
 USER $NOTEBOOK_USER
-CMD ["jupyter", "notebook", "--log-level=INFO"]
+CMD ["jupyter", "notebook", "--log-level=DEBUG"]
